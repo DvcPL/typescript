@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.ts"],"names":[],"mappings":";;AAAA,IAAM,KAAK,GAAY,eAAvB;AACA,OAAO,CAAC,GAAR,CAAY,KAAZ","file":"App.7a936cda.js","sourceRoot":"..","sourcesContent":["const hello : string = 'Witaj Świecie';\r\nconsole.log(hello);"]}
